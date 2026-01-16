@@ -1,15 +1,12 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-# Bhardwaj Bhat
+Welcome to my new blog! 
 
-Welcome to my website.
+I am currently setting things up using the **Minima** theme on GitHub Pages. Stay tuned for more updates.
 
-- Machine Learning
-- Systems
-- Low-rank models
-- Rust / C++
-
-This site is powered by **Jekyll + GitHub Pages**.
+### Featured Projects
+* [Project 1](#) - A brief description.
+* [Project 2](#) - A brief description.

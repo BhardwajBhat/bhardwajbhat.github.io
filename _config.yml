@@ -1,4 +1,13 @@
 title: Bhardwaj Bhat
-description: Personal website
-theme: minima
-markdown: kramdown
+author: Bhardwaj Bhat
+description: >- # This means a multi-line description
+  Welcome to my blog. Here I share my thoughts on 
+  technology, coding, and projects.
+  
+remote_theme: jekyll/minima
+google_analytics: # Add your ID here if you have one
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
