@@ -1,6 +1,15 @@
 ---
 layout: default
-title: Hello
+title: Home
 ---
 
-# Hello GitHub Pages
+# Bhardwaj Bhat
+
+Welcome to my website.
+
+- Machine Learning
+- Systems
+- Low-rank models
+- Rust / C++
+
+This site is powered by **Jekyll + GitHub Pages**.
